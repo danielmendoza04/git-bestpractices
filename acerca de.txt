@@ -1,6 +1,6 @@
-Nombre: 		Luis E. Jiménez
+Nombre: 		Daniel de Jesus Mendoza Martinez
 Edad: 			23
 Nacionalidad: 		mexicano
-Originario de: 		Tijuana, Baja California
-Estudios:		Ing. en Computación
-Profesión:		Lead Project Manager
+Originario de: 		Los Mochis, Sinaloa
+Estudios:		Ing. en Software
+Profesión:		Estudiante
